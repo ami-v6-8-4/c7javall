@@ -6,10 +6,11 @@ runtime:
 jdk:
   - openjdk7
   - openjdk8
+  - openjdk9
   - openjdk10
   - oraclejdk8
   - oraclejdk10
- 
+
 build:
 
   pre_ci_boot:
